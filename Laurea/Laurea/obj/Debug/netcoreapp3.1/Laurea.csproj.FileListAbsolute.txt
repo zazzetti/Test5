@@ -1,0 +1,13 @@
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\bin\Debug\netcoreapp3.1\Laurea.exe
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\bin\Debug\netcoreapp3.1\Laurea.deps.json
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\bin\Debug\netcoreapp3.1\Laurea.runtimeconfig.json
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\bin\Debug\netcoreapp3.1\Laurea.runtimeconfig.dev.json
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\bin\Debug\netcoreapp3.1\Laurea.dll
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\bin\Debug\netcoreapp3.1\Laurea.pdb
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\obj\Debug\netcoreapp3.1\Laurea.csprojAssemblyReference.cache
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\obj\Debug\netcoreapp3.1\Laurea.AssemblyInfoInputs.cache
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\obj\Debug\netcoreapp3.1\Laurea.AssemblyInfo.cs
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\obj\Debug\netcoreapp3.1\Laurea.csproj.CoreCompileInputs.cache
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\obj\Debug\netcoreapp3.1\Laurea.dll
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\obj\Debug\netcoreapp3.1\Laurea.pdb
+C:\Users\elena.zazzetti\Desktop\Elena_Zazzetti\Laurea\Laurea\obj\Debug\netcoreapp3.1\Laurea.genruntimeconfig.cache
